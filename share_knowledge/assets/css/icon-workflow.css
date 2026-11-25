@@ -1,0 +1,6 @@
+.sk-icon-token{display:inline-flex;align-items:center;justify-content:center;width:1.28em;height:1.28em;vertical-align:-.2em;margin-inline:.06em;line-height:1;flex:0 0 auto;color:#607be5}
+.sk-icon-token svg{display:block;width:100%;height:100%;fill:none;stroke:currentColor;stroke-width:2.2;stroke-linecap:round;stroke-linejoin:round}
+.sk-workflow-nav{display:flex;align-items:center;gap:5px;flex-wrap:wrap}
+.sk-workflow-nav a.sk-nav-link{white-space:nowrap}
+.sk-workflow-nav a[aria-current="page"]{color:var(--sk-green,#536ddb)!important;background:#edf0fc!important}
+@media(max-width:760px){header nav.sk-workflow-nav{order:5;width:100%;max-width:100%;padding:4px 0 8px;overflow-x:auto;overflow-y:hidden;flex-wrap:nowrap;scrollbar-width:thin;scrollbar-color:#cbd2eb transparent;-webkit-overflow-scrolling:touch}header nav.sk-workflow-nav a{flex:0 0 auto}}
